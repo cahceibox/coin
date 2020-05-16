@@ -1,2 +1,0 @@
-# coin
-Cryptotap browser
